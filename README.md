@@ -1,9 +1,14 @@
-# [FSI Pages](https://www.neptunelabs.com/fsi-pages/) &middot; [Samples][GHPages]
+# FSI Pages Samples
 | ***Pixel-perfect*** | ***High-DPI-ready*** | ***Fast :rocket:*** | ***Hackable*** | ***Consistent*** |
 |:-----------------:|:-------------:|:---------------:|:---------------:|:---------------:|
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][License]
 
+---
+
+* [Live Samples @ GitHub Pages 🔗][GHPages]
+* [FSI Pages - Product Page 🔗](https://www.neptunelabs.com/fsi-pages/)
+* [Documentation 🔗][Docs]
 
 FSI Pages is a tool for presenting image collections as an interactive catalogue, booklet or photo album on desktop computers and mobile devices. FSI Pages automatically creates a page index with thumbnails and supports hyperlinks and interactive zooming.
 The real-time scaling capabilities of the image server are used to achieve pixel-perfect results.
